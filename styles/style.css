@@ -410,7 +410,6 @@
   font-weight: 500;
   font-size: clamp(1.125rem, 0.9231rem + 0.8974vw, 2rem);
   z-index: 1;
-  align-self: start;
 }
 
 .column-text_item {
